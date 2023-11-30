@@ -23,4 +23,4 @@ Andrew Sargeant
 
 ## GitHub Repository
 
-[Link to your GitHub repository](https://github.com/The-Bug_CTRL/MyRepository)
+[Link to your GitHub repository](https://github.com/The-Bug-CTRL/MyRepository.git)
